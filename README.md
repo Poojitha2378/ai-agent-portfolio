@@ -210,10 +210,3 @@ Welcome to my collection of AI-powered solutions designed to streamline workflow
 - Research efficiency improvement
 - Time-saving content analysis
 
-
-
----
-
-## 📬 About Me
-
-I'm Poojitha Marreddy, Product Management professional with 9+ years of technical experience, passionate about AI and technology innovation. Exploring AI agents, product strategies, and emerging tech landscapes. Certified in Azure, machine learning, and product management. Leveraging cross-functional expertise to build intelligent, user-centric solutions. Continuous learner experimenting with cutting-edge technologies.
